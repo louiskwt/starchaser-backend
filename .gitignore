@@ -1,0 +1,11 @@
+# OS metadata
+.DS_Store
+
+# Env variables
+.env
+
+# yarn lock
+yarn.lock
+
+# Dependencies dir
+node_modules
